@@ -1,1 +1,106 @@
-
+{
+    "users": {
+        "123456789": {
+            "username": "example_user",
+            "first_name": "John",
+            "last_name": "Doe",
+            "coins": 20,
+            "status": "active",
+            "start_date": "2025-02-22 12:34:56",
+            "tokens_used": []
+        },
+        "987654321": {
+            "username": "another_user",
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "coins": 50,
+            "status": "blocked",
+            "start_date": "2025-02-21 10:11:12",
+            "tokens_used": [
+                "token-s555m:50"
+            ]
+        },
+        "555555555": {
+            "username": "new_user",
+            "first_name": "Alice",
+            "last_name": "Smith",
+            "coins": 30,
+            "status": "active",
+            "start_date": "2025-02-22 14:20:00",
+            "tokens_used": []
+        }
+    },
+    "tokens": {
+        "token-s555m:50": {
+            "value": 50,
+            "used_by": "987654321"
+        },
+        "token-s555m-a:100": {
+            "value": 100,
+            "used_by": null
+        },
+        "token-s555m-b:200": {
+            "value": 200,
+            "used_by": null
+        },
+        "ouihcijviy8c": {
+            "value": 50,
+            "used_by": null
+        },
+        "new-token-123": {
+            "value": 75,
+            "used_by": null
+        }
+    },
+    "5916336781": {
+        "username": "Shimul555ModBD",
+        "first_name": "\ud83c\udde7\ud83c\udde9 \u2022 \u3032\ud835\udde6\ud835\uddf5\ud835\uddf6\ud835\uddfa\ud835\ude02\ud835\uddf9\u24f9\u24f9\u24f9 \ud835\udde0\ud835\uddfc\ud835\uddf1\u0e5b",
+        "last_name": null,
+        "coins": 40,
+        "status": "active",
+        "start_date": "2025-02-22 08:25:14",
+        "tokens": {
+            "ifcidici775yv": "50",
+            "s555m-coin-token": "50",
+            "s555m-coin-token-a": "50",
+            "uuo0mzmcg4dk": "50",
+            "t00j9wja6d7u": "50"
+        },
+        "used_tokens": {
+            "uuo0mzmcg4dk": "expired or used",
+            "s555m-coin-token": "expired or used"
+        }
+    },
+    "6484196319": {
+        "username": null,
+        "first_name": ".",
+        "last_name": ".",
+        "coins": 20,
+        "status": "active",
+        "start_date": "2025-02-22 08:41:21",
+        "tokens": {
+            "ifcidici775yv": "50",
+            "s555m-coin-token": "50",
+            "s555m-coin-token-a": "50",
+            "fncyr5yyt9v6": "50",
+            "bcctxtvhlseq": "50"
+        },
+        "used_tokens": {}
+    },
+    "6242610630": {
+        "username": "Shimul555ModOfficial",
+        "first_name": "\u3004\ud835\udde6\ud835\uddf5\ud835\uddf6\ud835\uddfa\ud835\ude02\ud835\uddf9\u24f9\u24f9\u24f9 \ud835\udde0\ud835\uddfc\ud835\uddf1\u3004 \ud80c\ude88\ud83c\udde7\ud83c\udde9Official \ud83c\udde7\ud83c\udde9\ud80c\ude89",
+        "last_name": null,
+        "coins": 49999750,
+        "status": "active",
+        "start_date": "2025-08-25 22:37:52",
+        "tokens": {
+            "ifcidici775yv": "50",
+            "s555m-coin-token": "50",
+            "s555m-coin-token-a": "50",
+            "m73bh3o3j4wr": "50",
+            "kw25l6vxxi4h": "50"
+        },
+        "used_tokens": {}
+    }
+}
